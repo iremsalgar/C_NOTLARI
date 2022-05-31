@@ -1,5 +1,7 @@
 # C_NOTLARI
 
+dosyaları yakın zamanda pdf'e dönüştüreceğim iyi çalışmalar.
+
 Yüklenenler;
 
 -c de kullanılan değişken tipleri
